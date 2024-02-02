@@ -99,6 +99,7 @@
 # "Francisco S. F." <fsanchezflorido@gmail.com>, 2023.
 # Jorge Julio Torres <jjulio.tlg.89@gmail.com>, 2023.
 # Chimi <tximi.sysaad@gmail.com>, 2023.
+# Miguel de Dios Matias <tres.14159@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: Godot Engine properties\n"
@@ -3668,7 +3669,7 @@ msgid "Exclude From Recents"
 msgstr "Excluir de los Recientes"
 
 msgid "Show in Android Tv"
-msgstr "Mostrar wn Android TV"
+msgstr "Mostrar en Android TV"
 
 msgid "Show in App Library"
 msgstr "Mostrar en la librería de Aplicaciones"
